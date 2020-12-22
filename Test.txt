@@ -1,0 +1,3 @@
+This is user defined variable VAR1, value = {{VAR1}}.
+This is user defined variable VAR2, value = {{VAR2}}.
+This is user defined variable VAR3, value = {{VAR3}}.
